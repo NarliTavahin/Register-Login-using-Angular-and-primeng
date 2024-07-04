@@ -29,6 +29,12 @@
       "fullName": "narli",
       "email": "narli@gmail.com",
       "password": "123456789"
+    },
+     {
+      "id": "1v6p",
+      "fullName": "omid",
+      "email": "omid@gmail.com",
+      "password": "123456"
     }
   ]
 }
